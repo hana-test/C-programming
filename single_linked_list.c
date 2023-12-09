@@ -30,6 +30,6 @@ int main() {
     current->link = NULL;
     head->link->link = current;
     print_list(head);
-    
+
     return (0);
 }
