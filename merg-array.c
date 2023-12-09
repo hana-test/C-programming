@@ -14,5 +14,5 @@ int main() {
 
   printf("\n"); // Print a newline character at the end
 
-  return 0;
+  return (0);
 }
